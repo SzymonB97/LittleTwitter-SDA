@@ -1,0 +1,15 @@
+.ERROR {
+    color: red;
+}
+
+.SUCCESS {
+    color: forestgreen;
+}
+
+.WARNING {
+    color: orange;
+}
+
+.INFO {
+    color: lightseagreen;
+}
